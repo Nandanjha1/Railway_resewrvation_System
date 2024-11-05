@@ -134,8 +134,7 @@ def display():
             return False
     except:
         print("ACCOUNT DOES NOT EXIST")
-           
-    
+              
 def main():
     while True:
         print("\t\t\t\t________________")
